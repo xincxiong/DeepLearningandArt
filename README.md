@@ -7,7 +7,7 @@ this model is to optimize algorithm updates the pixel values rather than the nue
 
 
 ## Summary
-<font color='blue'>
+
 1. Neural Style Transfer is an algorithm that given a content image C and a style image S can generate an artistic image
 2. It uses representations (hidden layer activations) based on a pretrained ConvNet.
 3. The content cost function is computed using one hidden layer's activations.
